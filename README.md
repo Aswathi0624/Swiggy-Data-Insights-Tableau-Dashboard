@@ -12,7 +12,7 @@ This project transforms raw data into interactive visual insights, enabling user
 - Examine the relationship between price and ratings
 - Provide data-driven insights to support business decisions
 
-## 🗂 Dataset
+## Dataset
 - **File:** 'swiggy dataset.csv'
 - **Records:** 5,373 restaurants | 5,943 orders | 855,150 ratings  
 - **Key Columns:**
@@ -101,7 +101,7 @@ Bar, Scatter, Treemap, Bubble, Map, Histogram
 - Aligning pricing strategies with customer ratings  
 
 
-## 🖼 Dashboard Previews
+## Dashboard Previews
 
 <img width="1281" height="719" alt="overview" src="https://github.com/user-attachments/assets/27dc151f-3229-4707-94e3-aadca7d7ef98" />
 
