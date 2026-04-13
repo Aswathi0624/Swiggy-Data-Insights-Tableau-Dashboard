@@ -13,7 +13,7 @@ This project transforms raw data into interactive visual insights, enabling user
 - Provide data-driven insights to support business decisions
 
 ## 🗂 Dataset
-- **File:** `swiggy dataset.csv`  
+- **File:** 'swiggy dataset.csv'
 - **Records:** 5,373 restaurants | 5,943 orders | 855,150 ratings  
 - **Key Columns:**
   - Restaurant Name  
@@ -82,7 +82,8 @@ This project transforms raw data into interactive visual insights, enabling user
 - Calculated Fields
 - Interactive Filters
 - KPI Cards
-### **Charts:** Bar, Scatter, Treemap, Bubble, Map, Histogram
+### **Charts** :
+Bar, Scatter, Treemap, Bubble, Map, Histogram
 ### **CSV Dataset**
 - Direct import into Tableau
 - Fully cleaned and transformed within Tableau
