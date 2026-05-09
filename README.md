@@ -105,10 +105,14 @@ Bar, Scatter, Treemap, Bubble, Map, Histogram
 
 <img width="1281" height="719" alt="overview" src="https://github.com/user-attachments/assets/27dc151f-3229-4707-94e3-aadca7d7ef98" />
 
+
 <img width="1286" height="721" alt="City and location insights" src="https://github.com/user-attachments/assets/9915aa55-c0bd-46d3-a004-1735f781190e" />
+
 
 <img width="1278" height="716" alt="Restaurant Performances" src="https://github.com/user-attachments/assets/efcabb73-f868-4302-bdce-905e9df4a845" />
 
+
 <img width="1375" height="770" alt="Delivery Performance analysis" src="https://github.com/user-attachments/assets/07bfcf50-6aae-40cc-8116-c15de9205ede" />
+
 
 <img width="1271" height="718" alt="Price and Ratings analysis" src="https://github.com/user-attachments/assets/566d5e22-36a5-467b-bd25-63a3eb94d8fa" />
